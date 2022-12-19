@@ -14,7 +14,7 @@ const routes = [
     },
     {
         method: 'POST',
-        path: '/book',
+        path: '/books',
         handler: addBooksHandler,
     },
     {
